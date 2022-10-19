@@ -1,2 +1,2 @@
 # hangar18
-cant stop the learning train baby
+my ultimate goal is making a cubesat and my personal ai
